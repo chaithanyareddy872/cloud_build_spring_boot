@@ -27,22 +27,22 @@
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
 		</dependency>
-		<dependency>
-			<groupId>com.google.cloud</groupId>
-			<artifactId>spring-cloud-gcp-starter</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.google.cloud</groupId>
-			<artifactId>spring-cloud-gcp-data-spanner</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-tx</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.google.cloud</groupId>
-			<artifactId>spring-cloud-gcp-starter-data-spanner</artifactId>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>com.google.cloud</groupId>-->
+<!--			<artifactId>spring-cloud-gcp-starter</artifactId>-->
+<!--		</dependency>-->
+<!--		<dependency>-->
+<!--			<groupId>com.google.cloud</groupId>-->
+<!--			<artifactId>spring-cloud-gcp-data-spanner</artifactId>-->
+<!--		</dependency>-->
+<!--		<dependency>-->
+<!--			<groupId>org.springframework</groupId>-->
+<!--			<artifactId>spring-tx</artifactId>-->
+<!--		</dependency>-->
+<!--		<dependency>-->
+<!--			<groupId>com.google.cloud</groupId>-->
+<!--			<artifactId>spring-cloud-gcp-starter-data-spanner</artifactId>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-rest</artifactId>
